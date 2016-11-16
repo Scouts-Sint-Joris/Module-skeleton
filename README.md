@@ -1,5 +1,14 @@
 ![alt tag](https://github.com/Tjoosten/SVG-scss/blob/master/repo-assets/logo.jpg)
 
+<p align="center">
+    <a href="https://packagist.org/packages/:vendor/:package_name"><img src="https://img.shields.io/packagist/v/:vendor/:package_name.svg?style=flat-square"></a>
+    <a href="https://travis-ci.org/:vendor/:package_name"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square"></a>
+    <a href="https://scrutinizer-ci.com/g/:vendor/:package_name/code-structure"><img src="https://img.shields.io/travis/:vendor/:package_name/master.svg?style=flat-square"></a>
+    <a href="https://scrutinizer-ci.com/g/:vendor/:package_name"><img src="https://img.shields.io/scrutinizer/coverage/g/:vendor/:package_name.svg?style=flat-square"></a>
+    <a href="https://packagist.org/packages/:vendor/:package_name"><img src="https://img.shields.io/scrutinizer/g/:vendor/:package_name.svg?style=flat-square"></a>
+    <a href="https://github.com/:author_username"><img src="https://img.shields.io/packagist/dt/:vendor/:package_name.svg?style=flat-square"></a>
+</p>
+
 **Note:** Replace `:author_name` `:author_username` `:author_website` `:author-email` `:vendor` `:package_name`
 `:package_description` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), 
 [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files, 
