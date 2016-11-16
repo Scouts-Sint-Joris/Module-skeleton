@@ -2,6 +2,10 @@
 
 <hr>
 
+<p align="center">
+    <a href="ico-version"><img src="link-packagist"></a>
+</p>
+
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
 [![Build Status][ico-travis]][link-travis]
