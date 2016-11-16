@@ -3,7 +3,7 @@
 <hr>
 
 <p align="center">
-    <a href="ico-version"><img src="link-packagist"></a>
+    <a href="ico-version"><img src="Latest Version on Packagist"></a>
 </p>
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
