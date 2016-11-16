@@ -1,4 +1,4 @@
-[![alt tag](https://github.com/Tjoosten/SVG-scss/blob/master/repo-assets/logo.jpg)]
+![alt tag](https://github.com/Tjoosten/SVG-scss/blob/master/repo-assets/logo.jpg)
 
 **Note:** Replace `:author_name` `:author_username` `:author_website` `:author-email` `:vendor` `:package_name`
 `:package_description` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), 
