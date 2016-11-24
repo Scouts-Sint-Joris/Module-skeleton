@@ -47,7 +47,7 @@ $ composer test
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) and [CONDUCT](CONDUCT.md) for details. 
 
-f you discover any security related issues, please email :author_email instead of using the issue tracker.
+if you discover any security related issues, please email :author_email instead of using the issue tracker.
 
 ## Credits
 
